@@ -246,6 +246,12 @@
 			"changeable": 1,
 			"playable": 1
 		},
+        {
+            "key": "Acfun",
+            "name": "😀┃A站┃平台",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"
+        },		
 		{
 			"key": "哔哩弹幕",
 			"name": "🅱️┃哔哩┃影视",
@@ -437,37 +443,7 @@
 				"分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
 			}
-		}, {
-			"key": "鹊桥影院",
-			"name": "🐦️┃鹊桥┃影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "https://ncstatic.clewm.net/rsrc/2026/0501/23/d064709f380b4075ac3a4ec302d4244d.png;md5;FD3CEFC7302F3A39A442682F802B11E5",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"二次截取": "myui-vodlist clearfix\">&&</ul>",
-				"数组": "lazyload&&</li>",
-				"标题": "title=\"&&\"",
-				"图片": "data-original=\"&&\"",
-				"副标题": "right\">&&</span>",
-				"链接": "href=\"&&\"",
-				"播放数组": "playlist clearfix\"&&</ul>",
-				"播放列表": "<a&&a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": ">&&</",
-				"线路数组": "class=\"stui-vodlist__head\"&&span>",
-				"线路标题": "多多专线",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"主页url": "http://114bate.com/",
-				"分类url": "http://114bate.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$38",
-				"类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
-			}
-		}, {
+		},{
 			"key": "水滴视频",
 			"name": "💧┃水滴┃视频",
 			"type": 3,
