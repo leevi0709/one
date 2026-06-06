@@ -75,8 +75,8 @@
 			"ext": "./json/douban.json"
 		},
 		{
-			"name": "LEO弹幕",
-			"key": "⚙️┃弹幕┃配置",
+			"key": "leo弹幕",
+			"name": "⚙️┃弹幕┃配置",
 			"type": 3,
 			"api": "csp_DanmakuSpider",
 			"searchable": 1,
