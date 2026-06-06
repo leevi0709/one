@@ -82,7 +82,10 @@
 			"searchable": 1,
 			"jar": "https://wp.kayyw.com/f/nnA9HX/danmu.jar",
 			"ext": {
-				"apiUrl": "https://logo.saodu.work:8888/87654321",
+				"apiUrl": ["https://logo.saodu.work:8888/87654321|公益源1",
+					"https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源2",
+					"https://dm.ljiaovm.com/luosen|公益源3"
+				],
 				"autoPushEnabled": true,
 				"danmakuStyle": "经典模式",
 				"lpAlpha": 0.9
