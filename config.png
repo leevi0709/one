@@ -82,7 +82,7 @@
 			"searchable": 1,
 			"jar": "https://ncstatic.clewm.net/rsrc/2026/0606/11/213bbb9695e34a42a8fb0d2deff41a89.png;md5;38F2621478442352EC0417E3D660B8D8",
 			"ext": {
-				"apiUrl": ["https://logo.saodu.work:8888/87654321|公益源1", "https://danmu.longemby.com/lilyemby|公益源2", "https://danmu.wangziyang.top/020116|公益源3", "https://stevendanmuapi.netlify.app/steven|公益源4", "https://dmapi.6565n.xyz/87654321|公益源5", "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源6", "https://danmua.netlify.app/cinetry|公益源7", "https://dm.ljiaovm.com/luosen|公益源8"],
+				"apiUrl": "https://logo.saodu.work:8888/87654321|公益源",
 				"autoPushEnabled": true,
 				"danmakuStyle": "经典模式",
 				"lpAlpha": 0.9
