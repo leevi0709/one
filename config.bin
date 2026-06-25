@@ -74,15 +74,24 @@
 			"indexs": 1,
 			"ext": "./json/douban.json"
 		},
-		{
-			"key": "虎斑弹幕",
-			"name": "⚙️┃弹幕┃配置",
-			"type": 3,
-			"api": "csp_Huban",
-			"jar": "https://ncstatic.clewm.net/rsrc/2026/0625/22/f3a426876f914a48b8bca925686adad1.png;md5;6D26513D76A521CADD1999E179059F2A",
-			"searchable": 0,
-			"changeable": 0
-		},
+        {
+            "key": "leo弹幕",
+            "name": "⚙️┃弹幕┃配置",
+            "type": 3,
+            "api": "csp_DanmakuSpider",
+            "searchable": 1,
+            "jar": "https://ncstatic.clewm.net/rsrc/2026/0606/11/213bbb9695e34a42a8fb0d2deff41a89.png;md5;38F2621478442352EC0417E3D660B8D8",
+            "ext": {
+                "apiUrl": [
+          "https://dm.abai.ccwu.cc/abai|公益源1",
+          "https://dmapi.6565n.xyz/87654321|公益源2",
+          "https://dm.ljiaovm.com/luosen|公益源3"
+        ],
+                "autoPushEnabled": true,
+                "danmakuStyle": "经典模式",
+                "lpAlpha": 0.9
+            }
+        },
 		{
 			"key": "网盘配置",
 			"name": "🍭┃配置┃中心",
