@@ -479,6 +479,15 @@
 				"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
 			}
 		}, {
+			"key": "苹果py",
+			"name": "🌟┃苹果┃短剧",
+			"type": 3,
+			"api": "./py/hgdj.py",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
 			"key": "星芽短剧",
 			"name": "🌟┃星芽┃短剧",
 			"type": 3,
