@@ -6,7 +6,7 @@
 	"lives": [{
 		"name": "migu(优)",
 		"type": 0,
-		"url": "https://web.ksx.qzz.io/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+		"url": "http://migu.lengye.top/interfaceTXT.txt",
 		"timeout": 10,
 		"playerType": 2
 	}, {
@@ -18,13 +18,13 @@
 	}, {
 		"name": "migu720",
 		"type": 0,
-		"url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+		"url": "https://web.ksx.qzz.io/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/LiTV.m3u",
 		"playerType": 2,
 		"timeout": 10
 	}, {
 		"name": "iTV",
 		"type": 0,
-		"url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+		"url": "https://web.ksx.qzz.io/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
 		"playerType": 2,
 		"timeout": 10
 	}, {
@@ -75,7 +75,7 @@
 			}
 		},{
 			"key": "leo弹幕",
-			"name": "⚙️┃弹幕┃配置",
+			"name": "⚙️┃leo┃弹幕",
 			"type": 3,
 			"api": "csp_DanmakuSpider",
 			"searchable": 1,
@@ -88,6 +88,17 @@
 				"lpAlpha": 0.9
 			}
 		}, {
+			"key": "小白弹幕",
+			"name": "☄️┃小白┃弹幕",
+			"type": 3,
+			"api": "csp_SecureDanmu",
+			"jar": "https://ncstatic.clewm.net/rsrc/2026/0807/12/c540eb4719b24fb9bea28987527b5152.png;md5;38C9C3FBDEB7B247892353C6C0139735",
+			"index": 1,
+			"ext": {
+				"apiUrls": ["https://d.cjf.red/87654321|公益源","https://danmu.longemby.com/lilyemby|公益源1", "https://dm.ljiaovm.com/luosen|公益源2", "https://dandan.wenjian.de/wenjian|公益源3", "https://logvardanmu.konfan.cn/87654321|公益源4", "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源5"],
+				"titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
+			}
+		},{
 			"key": "天天",
 			"name": "🧿┃天天┃秒播",
 			"type": 3,
@@ -95,7 +106,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+			"jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
 			"ext": "7lj763gg0939791h1l3888jig44gi291li"
 		}, {
 			"key": "柠檬",
@@ -103,7 +114,7 @@
 			"type": 3,
 			"api": "csp_Nmvod",
 			"playerType": 2,
-			"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+			"jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
 			"ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
 		}, {
 			"key": "热播",
@@ -132,6 +143,15 @@
 			"ext": {
 				"site": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz,https://yydsys.us.ci,https://yydsys.de5.net"
 			}
+		}, {
+			"key": "yunduo",
+			"name": "☁️┃云朵┃影视",
+			"type": 3,
+			"api": "./py/yunduo.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0
 		}, {
 			"key": "大马猴",
 			"name": "🐒┃马猴┃影视",
@@ -237,7 +257,7 @@
 			"type": 3,
 			"api": "csp_Jpys",
 			"playerType": 1,
-			"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+			"jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
 			"ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
 		}, {
 			"key": "剧评",
@@ -245,7 +265,7 @@
 			"type": 3,
 			"api": "csp_Jpys",
 			"playerType": 2,
-			"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+			"jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9AB53F593C034C2B80CDC9F4C785A6F3",
 			"ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 		}, {
 			"key": "XBPQ_宝宝趣学",
@@ -909,17 +929,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
-			"key": "小白弹幕",
-			"name": "☄️┃小白┃弹幕",
-			"type": 3,
-			"api": "csp_SecureDanmu",
-			"jar": "https://ncstatic.clewm.net/rsrc/2026/0807/12/c540eb4719b24fb9bea28987527b5152.png;md5;38C9C3FBDEB7B247892353C6C0139735",
-			"index": 1,
-			"ext": {
-				"apiUrls": ["https://d.cjf.red/87654321|公益源","https://danmu.longemby.com/lilyemby|公益源1", "https://dm.ljiaovm.com/luosen|公益源2", "https://dandan.wenjian.de/wenjian|公益源3", "https://iduo.de5.net/duodanmu|公益源4", "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源5"],
-				"titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
-			}
 		}, {
 			"key": "push_agent",
 			"name": "🍭┃手机┃推送",
