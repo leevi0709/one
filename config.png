@@ -75,7 +75,7 @@
 			}
 		},{
 			"key": "leo弹幕",
-			"name": "⚙️┃leo┃弹幕",
+			"name": "⚙️┃LEO┃弹幕",
 			"type": 3,
 			"api": "csp_DanmakuSpider",
 			"searchable": 1,
