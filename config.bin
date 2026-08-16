@@ -164,29 +164,7 @@
 			"type": 3,
 			"playerType": 2,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yb.js"
-		}, {
-			"key": "夜莺",
-			"name": "🐤┃夜莺┃影视",
-			"type": 3,
-			"api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
-			"ext": {
-				"host": "http://222.211.75.252:16118",
-				"key": "0UKM8jkasM8tdzgW",
-				"init": "V122",
-				"api": 2,
-				"ua": "okhttp/3.10.0"
-			},
-			"categories": [
-				"动漫",
-				"电视剧",
-				"电影",
-				"综艺",
-				"短剧",
-				"体育",
-				"少儿",
-				"纪录片"
-			]
-		},
+		}, 
 		{
 			"key": "星河",
 			"name": "🌌┃星河┃影视",
