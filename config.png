@@ -195,6 +195,12 @@
 			"filterable": 1,
 			"playerType": 2
 		}, {
+			"key": "hongguo",
+			"name": "🍎┃苹果┃短剧",
+			"type": 3,
+			"api": "./py/hongguo.py",
+			"searchable": 1
+		}, {
 			"key": "免扫4K",
 			"name": "♻┃高清┃秒播",
 			"type": 3,
